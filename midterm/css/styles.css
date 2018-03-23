@@ -1,0 +1,99 @@
+/*body{*/
+	font-family: 'MedievalSharp', cursive;
+	background: url('../images/background.jpg') ;
+	
+}
+#background{
+	background-image: url('../images/background.jpg') no-repeat center;
+
+    
+}
+h1{
+	font-family: 'MedievalSharp', cursive;
+	color: white;
+	text-align: center;
+}
+h2{
+	font-family: 'MedievalSharp', cursive;
+	color: white;
+	text-align: center;
+}
+
+#name{
+font-family: 'MedievalSharp', cursive;
+color: white;
+font-size: 400%;
+text-align: center;
+padding: 0%;
+}
+
+div{
+	background: url('../images/ekko.jpg') no-repeat center;
+	background-size: center ;
+	margin: auto;
+	width: 800px;
+	height: 800px;
+}
+img{
+	width:400px;
+	height: 400px;
+	display: block;
+	margin: auto;
+	background-color: black;
+}
+#info{
+	font-family: 'MedievalSharp', cursive;
+color: #DEE05D;
+font-size: 200%;
+text-align: center;
+padding: 0%;
+}
+#ekko-gif{
+	width:auto ;
+	height:auto;
+	display: block;
+	margin: auto;
+	background-color: black;
+}
+h3{
+	font-family: 'MedievalSharp', cursive;
+	color: #DEE05D;
+	text-align: center;
+}
+#zed{
+	font-family: 'MedievalSharp', cursive;
+color: white;
+font-size: 400%;
+text-align: center;
+padding: 0%;
+}
+#zed-blue{
+	width:800px ;
+	height:450px;
+	display: block;
+	margin: auto;
+	background-color: black;
+}
+#zed-info{
+	font-family: 'MedievalSharp', cursive;
+color: #DEE05D;
+font-size: 200%;
+text-align: center;
+padding: 0%;
+}
+#zed-gif{
+	width:auto ;
+	height:auto;
+	display: block;
+	margin: auto;
+	background-color: black;
+}
+html{
+	background: url('../images/background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  
+}
+#logo{
+	background-color: transparent;
+}
