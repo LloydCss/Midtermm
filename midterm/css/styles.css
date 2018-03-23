@@ -18,7 +18,9 @@ h2{
 	color: white;
 	text-align: center;
 }
-
+a{
+	color: #FAF6F4;
+}
 #name{
 font-family: 'MedievalSharp', cursive;
 color: white;
@@ -59,6 +61,7 @@ h3{
 	font-family: 'MedievalSharp', cursive;
 	color: #DEE05D;
 	text-align: center;
+	font-size: 150%;
 }
 #zed{
 	font-family: 'MedievalSharp', cursive;

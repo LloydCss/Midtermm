@@ -1,0 +1,112 @@
+
+h1{
+	font-family: 'MedievalSharp', cursive;
+	color: #DEE05D;
+	text-align: center;
+}
+h2{
+	font-family: 'MedievalSharp', cursive;
+	color: #DEE05D;
+	text-align: center;
+}
+h3{
+	font-family: 'MedievalSharp', cursive;
+	color: #DEE05D;
+	text-align: center;
+	font-size: 150%;
+}
+
+a{
+	color: #FAF6F4;
+}
+html{
+	background: url('../images/background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+}
+#kata{
+	font-family: 'MedievalSharp', cursive;
+color: #FAF6F4;
+font-size: 400%;
+text-align: center;
+padding: 0%;
+}
+#kata-pic{
+ 	width:800px ;
+	height:450px;
+	display: block;
+	margin: auto;
+	background-color: black;
+ }
+#kat-info{
+font-family: 'MedievalSharp', cursive;
+color: #DEE05D;
+font-size: 200%;
+text-align: center;
+padding: 0%;
+}
+
+#kata-gif{
+	width:auto ;
+	height:auto;
+	display: block;
+	margin: auto;
+	background-color: black;
+}
+#irelia-pic{
+width:800px ;
+	height:450px;
+	display: block;
+	margin: auto;
+	background-color: black;
+}
+#irelia-info{
+font-family: 'MedievalSharp', cursive;
+color: #DEE05D;
+font-size: 200%;
+text-align: center;
+padding: 0%;
+}
+#irelia-gif{
+width:auto ;
+	height:auto;
+	display: block;
+	margin: auto;
+	background-color: black;
+}
+#irelia{
+	font-family: 'MedievalSharp', cursive;
+color: #FAF6F4;
+font-size: 400%;
+text-align: center;
+padding: 0%;
+}
+#fiora{
+	font-family: 'MedievalSharp', cursive;
+color: #FAF6F4;
+font-size: 400%;
+text-align: center;
+padding: 0%;
+}
+#fiora-gif{
+width:auto ;
+	height:auto;
+	display: block;
+	margin: auto;
+	background-color: black;
+}
+
+#fiora-pic{
+width:800px ;
+	height:450px;
+	display: block;
+	margin: auto;
+	background-color: black;
+}
+#fiora-info{
+	font-family: 'MedievalSharp', cursive;
+color: #DEE05D;
+font-size: 200%;
+text-align: center;
+padding: 0%;
+}

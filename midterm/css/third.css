@@ -1,0 +1,88 @@
+h1{
+	font-family: 'MedievalSharp', cursive;
+	color: #DEE05D;
+	text-align: center;
+}
+h2{
+	font-family: 'MedievalSharp', cursive;
+	color: #DEE05D;
+	text-align: center;
+	font-size: 250%
+}
+
+h3{
+	font-family: 'MedievalSharp', cursive;
+	color: #DEE05D;
+	text-align: center;
+	font-size: 150%;
+}
+
+
+a{
+	color: #FAF6F4;
+}
+html{
+	background: url('../images/background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+}
+
+
+
+  #kayn{
+	font-family: 'MedievalSharp', cursive;
+color: #FAF6F4;
+font-size: 400%;
+text-align: center;
+padding: 0%;
+}
+#kayn-pic{
+ 	width:800px ;
+	height:450px;
+	display: block;
+	margin: auto;
+	background-color: black;
+ }
+#kayn-info{
+font-family: 'MedievalSharp', cursive;
+color: #DEE05D;
+font-size: 200%;
+text-align: center;
+padding: 0%;
+}
+
+#kayn-gif{
+	width:auto ;
+	height:auto;
+	display: block;
+	margin: auto;
+	background-color: black;
+}
+#tryn{
+font-family: 'MedievalSharp', cursive;
+color: #FAF6F4;
+font-size: 400%;
+text-align: center;
+padding: 0%;
+}
+#tryn-pic{
+width:800px ;
+	height:450px;
+	display: block;
+	margin: auto;
+	background-color: black;
+}
+#tryn-info{
+font-family: 'MedievalSharp', cursive;
+color: #DEE05D;
+font-size: 200%;
+text-align: center;
+padding: 0%;
+}
+#tryn-gif{
+	width:auto ;
+	height:auto;
+	display: block;
+	margin: auto;
+	background-color: black;
+}
